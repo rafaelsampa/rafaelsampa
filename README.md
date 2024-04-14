@@ -2,7 +2,7 @@
  ![rafaelsampa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelsampa&theme=vue-dark&hide_border=true)
 
 ________________________________________________________________________________________________________________________________________________
-# I little bit about myself
+# Little bit about myself
 - 👋 Hi! I’m @rafaelsampa
 - 👀 I’m interested in computer science as a whole, focusing in java and C. 
 - 🌱 I’m currently learning Java and C languages at University. Moreover learning how to use python by my own to resolve mathematical formulas.
