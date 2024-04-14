@@ -1,5 +1,5 @@
 
- ![rafaelsampa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelsampa&theme=vue-dark&hide_border=true)
+![rafaelsampa's Stats](https://github-readme-stats.vercel.app/api?username=rafaelsampa&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false) ![rafaelsampa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelsampa&theme=midnight-purple&hide_border=true)
 
 ________________________________________________________________________________________________________________________________________________
 # Little bit about myself
@@ -13,4 +13,4 @@ ________________________________________________________________________________
  
 ________________________________________________________________________________________________________________________________________________
  
-![rafaelsampa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsampa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![rafaelsampa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsampa&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
