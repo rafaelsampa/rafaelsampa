@@ -16,7 +16,6 @@
 _________________________________
 ## Spotify Playing
 
-https://test-three-steel-98.vercel.app/
 [![Spotify](https://test-jltqknz5d-rafaels-projects-3e08fbcb.vercel.app/api/spotify)](https://open.spotify.com/user/rafael.silva25)
 
 _________________________________
