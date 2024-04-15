@@ -14,6 +14,7 @@
 
 
 _________________________________
+
 ## Spotify Playing
 
 &nbsp;<div align="center">
