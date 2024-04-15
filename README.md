@@ -16,8 +16,9 @@
 _________________________________
 ## Spotify Playing
 
-[![Spotify](https://test-jltqknz5d-rafaels-projects-3e08fbcb.vercel.app/api/spotify)](https://open.spotify.com/user/rafael.silva25)
-
+&nbsp;<div align="center">
+  [![Spotify](https://test-jltqknz5d-rafaels-projects-3e08fbcb.vercel.app/api/spotify)](https://open.spotify.com/user/rafael.silva25)
+</div>
 _________________________________
 
 # Little bit about myself
