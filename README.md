@@ -14,6 +14,12 @@
 
 
 _________________________________
+## Spotify Playing
+
+https://test-three-steel-98.vercel.app/
+[![Spotify](https://test-three-steel-98.vercel.app//api/spotify)](https://open.spotify.com/user/rafael.silva25)
+
+_________________________________
 
 # Little bit about myself
 - 👋 Hi! I’m @rafaelsampa
