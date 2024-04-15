@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="407" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelsampa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
+  <img width="408" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelsampa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="430" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsampa&theme=vue-dark&hide_border=true" />
