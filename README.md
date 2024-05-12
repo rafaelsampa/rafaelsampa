@@ -23,11 +23,13 @@ ________________________________
   <img width="431" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsampa&theme=vue-dark&hide_border=true" />
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsampa&hide=jinja&theme=vue-dark&show_icons=true&hide_border=true&layout=donut" />
 </div>
-
+<!---
 _________________________________
 ### Spotify Playing
 &nbsp;<div align="center">
   [![Spotify](https://agora-vai-git-main-rafaels-projects-3e08fbcb.vercel.app/api/spotify)](https://open.spotify.com/user/rafael.silva25)
 </div>
+
+
 
 
