@@ -9,9 +9,9 @@
 ________________________________
 
 # Little bit about myself 🇧🇷
-- 👋 Hi! I’m @rafaelsampa
+- 👋 Hi! I’m @rafaelsampa or just Rafa.
 - :earth_americas: I’m interested in computer science as a whole, but one day I hope to work with astroinformatics.
-- :pushpin: I’m currently learning Java and C languages at University. Moreover learning how to use Kotlin to future use in Android studio.
+- :pushpin: I’m currently learning Java, C, C++ and Python programming languages at University.
 - :telescope: I’m looking to collaborate on anything that enriches my knowledge, I often find fun in the process of learning something new, whatever it is.
 - 📫 How to reach me rafaelssampaiobr@gmail.com
 
