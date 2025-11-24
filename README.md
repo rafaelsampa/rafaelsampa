@@ -4,7 +4,7 @@
   <h3>Computer Science Student @ UNICAP</h3>
   
   <p>
-    <em>"Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth." — Jules Verne</em>
+    <em>"Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, <br> because they lead little by little to the truth." — Jules Verne</em>
   </p>
 
   <br>
