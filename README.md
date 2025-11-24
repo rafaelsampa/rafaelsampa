@@ -55,7 +55,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>🚀 Contact & More Info</b>
+        <b>Contact & More Info</b>
       </samp>
   </summary>
   
