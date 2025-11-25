@@ -55,7 +55,7 @@ ___________________
 
 <br><br>
 
-<details align="center">  
+<!-- <details align="center">  
   <summary>
       <samp>
         <b>Contact & More Info</b>
@@ -74,7 +74,7 @@ ___________________
   </div>
   
   <br>
-</details>
+</details> -->
 
 <br>
 
