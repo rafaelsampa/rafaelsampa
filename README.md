@@ -32,9 +32,9 @@
 
 ### About Me
 
-- 🔭 **The Goal:** I dream of applying my coding skills in **Astroinformatics, Robotics, and Embedded Systems**.
+- 🔭 **The Goal:** I dream of applying my coding skills in **Astroinformatics, Cryptography and Embedded Systems**.
 - 🛠 **The Foundation:** I have a strong background in low-level logic with **C and Java**.
-- 💻 **The Current Focus:** I'm expanding my toolkit into modern web development with **React** and exploring **Distributed Systems**.
+- 💻 **The Current Focus:** I'm expanding my toolkit into modern web development with Javascript and**React**, exploring **Distributed Systems** and Cryptographic Systems.
 - 📫 **Contact:** [rafaelssampaiobr@gmail.com](mailto:rafaelssampaiobr@gmail.com)
 
 <br>
