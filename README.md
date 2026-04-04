@@ -8,8 +8,6 @@
     <em>"Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, <br> because they lead little by little to the truth." — Jules Verne</em>
   </p>
 
-  
-
   <br>
 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -18,10 +16,17 @@
   
   <br>
   
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <br>
+  
+  <br>
 
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3FB1ED?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
 </div>
@@ -32,17 +37,12 @@
 
 - 🔭 **The Goal:** I dream of applying my coding skills in **Astroinformatics, Cryptography and Embedded Systems**.
 - 🛠 **The Foundation:** I have a strong background in low-level logic with **C and Java**.
-- 💻 **The Current Focus:** I'm expanding my toolkit into modern web development with Javascript and **React**, exploring **Distributed Systems** and Cryptographic Systems.
+- 💻 **The Current Focus:** Building Fullstack applications with **Node.js, TypeScript and React**. Currently developing a SaaS for RPG matchmaking while deep-diving into **Distributed Systems** and **Lightweight Cryptography**.
 - 📫 **Contact:** [rafaelssampaiobr@gmail.com](mailto:rafaelssampaiobr@gmail.com)
 
-<br>
-
-___________________
 
 
-<br>
-
-<div align="center">
+<!--- <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaelsampa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsampa&hide=jinja&theme=vue-dark&show_icons=true&hide_border=true&layout=donut" />
   
@@ -51,7 +51,7 @@ ___________________
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelsampa&theme=ayu_mirage" />
 </div>
 
-<br><br>
+<br><br> -->
 
 <!-- <details align="center">  
   <summary>
@@ -87,6 +87,6 @@ ____________________
 
 
 
-<div align="center">
+<!--- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelsampa&style=flat-square&color=20b69e" alt="Profile Views" /> 
-</div>
+</div> --->
