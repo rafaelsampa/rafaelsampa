@@ -39,10 +39,16 @@
 
 - 🛠️ **The Foundation**: I have a consolidated technical baseline in full-stack development with Node.js, TypeScript and React, alongside a strong background in low-level logic using C, C++ and Java.
 
-- 💻 **The Current Focus**: Exploring my research frontier in Lightweight Cryptography and IoT security. I apply a build-to-learn philosophy by implementing algorithms like ASCON on microcontrollers and developing platforms like FindMyRPG and CipherLock.
+- 💻 **The Current Focus**: Exploring my research frontier in Lightweight Cryptography and IoT security. I apply a build-to-learn philosophy by implementing algorithms like ASCON on microcontrollers and developing Saas and Paas on themes that motivates me.
 
 - 📫 **Contact:** [rafaelssampaiobr@gmail.com](mailto:rafaelssampaiobr@gmail.com)
 
+### Side-Projects
+- [FindMyRpgTable](https://github.com/rafaelsampa/find-my-rpg-table)
+- [CipherLock](https://github.com/rafaelsampa/cipherlock)
+
+<br>
+<a href="https://www.producthunt.com/products/cipherlock?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-cipherlock-2" target="_blank" rel="noopener noreferrer"><img alt="CipherLock - Learn ciphers by breaking them. No tracking. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1135963&amp;theme=dark&amp;t=1777610234230"></a>
 
 <!--- <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaelsampa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
