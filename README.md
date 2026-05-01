@@ -43,7 +43,6 @@
 
 - 📫 **Contact:** [rafaelssampaiobr@gmail.com](mailto:rafaelssampaiobr@gmail.com)
 
-[![FindMyRPG Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsampa&repo=find-my-rpg-table&theme=dracula)](https://github.com/rafaelsampa/find-my-rpg-table)
 
 <!--- <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaelsampa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
