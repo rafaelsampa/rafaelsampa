@@ -35,12 +35,15 @@
 
 ### About Me
 
-- 🔭 **The Goal:** I dream of applying my coding skills in **Astroinformatics, Cryptography and Embedded Systems**.
-- 🛠 **The Foundation:** I have a strong background in low-level logic with **C and Java**.
-- 💻 **The Current Focus:** Building Fullstack applications with **Node.js, TypeScript and React**. Currently developing a SaaS for RPG matchmaking while deep-diving into **Distributed Systems** and **Lightweight Cryptography**.
+- 🔭 **The Goal**: I big dream of applying my coding skills to solve complex problems in Astroinformatics, Cryptography and Embedded Systems.
+
+- 🛠️ **The Foundation**: I have a consolidated technical baseline in full-stack development with Node.js, TypeScript and React, alongside a strong background in low-level logic using C, C++ and Java.
+
+- 💻 **The Current Focus**: Exploring my research frontier in Lightweight Cryptography and IoT security. I apply a build-to-learn philosophy by implementing algorithms like ASCON on microcontrollers and developing platforms like FindMyRPG and CipherLock.
+
 - 📫 **Contact:** [rafaelssampaiobr@gmail.com](mailto:rafaelssampaiobr@gmail.com)
 
-
+[![FindMyRPG Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsampa&repo=find-my-rpg-table&theme=dracula)](https://github.com/rafaelsampa/find-my-rpg-table)
 
 <!--- <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaelsampa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
